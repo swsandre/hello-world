@@ -2,4 +2,4 @@
 
 echo "Hello World!"
 echo "Hallo nochmal!"
-echo "Eine neue Ausgabe eingefügt!"
+echo "Eine nächste Zeile eingefügt."
